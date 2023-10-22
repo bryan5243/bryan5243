@@ -14,10 +14,13 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-- A passionate Self-taught Front-end developer
-- Playing Battle Royale at spare time
-- Currently learning Web Development by Self
-- I am a software development student.
+<ul>
+<li>A passionate Self-taught Front-end developer</li>
+<li>Playing Battle Royale at spare time</li>
+<li>Currently learning Web Development by Self</li>
+<li>I am a software development student.</li>
+</ul>
+
 
 <br><br>
 
