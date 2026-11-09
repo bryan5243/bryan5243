@@ -1,9 +1,9 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=200&section=header&text=Bryan%20Rojas%20Aguilar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TIC%27s%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Game%20Dev%20con%20Godot&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=200&section=header&text=Bryan%20Rojas%20Aguilar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Servidor%20P%C3%BAblico%20%E2%80%A2%20TIC%27s%20%E2%80%A2%20Desarrollador%20Web&descAlignY=58&descSize=18" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+Soy+Bryan+%F0%9F%91%8B;Tecn%C3%B3logo+%7C+Asistente+de+TIC'S+%F0%9F%96%A5%EF%B8%8F;Construyo+soluciones+web+y+de+escritorio+%E2%9A%99%EF%B8%8F;Creo+videojuegos+2D+con+Godot+%F0%9F%8E%AE;Santa+Rosa%2C+El+Oro+-+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+Soy+Bryan+%F0%9F%91%8B;Servidor+p%C3%BAblico+en+la+EMOVTTSR-EP+%F0%9F%8F%9B%EF%B8%8F;Tecn%C3%B3logo+%7C+Asistente+de+TIC'S+%F0%9F%96%A5%EF%B8%8F;Desarrollo+sitios+web+y+sistemas+%E2%9A%99%EF%B8%8F;Santa+Rosa%2C+El+Oro+-+Ecuador+%F0%9F%93%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,25 +17,25 @@
 
 ## 🧑‍💻 Sobre mí
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```js
+
 const bryan = {
-  nombre:     "Bryan Joel Rojas Aguilar",
-  titulo:     "Tecnólogo en Desarrollo de Software",
-  rol:        "Asistente de TIC'S @ EMOVTT SR EP",
-  ubicacion:  "Santa Rosa, El Oro – Ecuador 🇪🇨",
-  estudiando: "Maestría en Educación Básica 🎓",
-  intereses:  ["Desarrollo web", "Apps de escritorio", "Videojuegos 2D", "IA aplicada"],
-  hobbies:    ["Battle Royale 🎯", "Crear juegos 🎮"],
-  lema:       "Si un proceso se repite, se puede automatizar."
+  nombre:    "Bryan Joel Rojas Aguilar",
+  titulo:    "Tecnólogo en Desarrollo de Software",
+  cargo:     "Asistente de TIC'S",
+  empresa:   "EMOVTTSR-EP",
+  ciudad:    "Santa Rosa, El Oro - Ecuador",
+  estudios:  "Maestría en Educación Básica",
+  intereses: ["Desarrollo web", "Sistemas", "IA aplicada"],
+  lema:      "Si se repite, se automatiza."
 };
-```
 
-- 🏢 Soy el **responsable técnico del Área de TIC'S** en la empresa pública de movilidad de Santa Rosa: soporte a todas las áreas y a los **equipos de control de acceso vehicular del Terminal Terrestre** (kioskos, cajeros, barreras y RFID).
-- 🛠️ Me gusta crear **herramientas reales que resuelven problemas reales** de mi ciudad y de mi trabajo.
-- 🤖 En mi trabajo de fin de máster investigo cómo la **IA generativa** apoya las secuencias didácticas en la Educación General Básica.
-- 🎮 En mis ratos libres desarrollo **videojuegos arcade 2D** con Godot.
+
+- 🏛️ **Servidor público** en la **EMOVTTSR-EP**, Empresa Pública de Movilidad de Santa Rosa.
+- 🌐 Desarrollé el **sitio web institucional** de la empresa: [emovttsr.gob.ec](https://www.emovttsr.gob.ec/)
+- 🛠️ Soy el **responsable técnico del Área de TIC'S**: doy soporte a todas las áreas y a los **equipos de control de acceso vehicular del Terminal Terrestre** (kioskos, cajeros, barreras y RFID).
+- 🤖 En mi trabajo de fin de máster investigo cómo la **IA generativa** apoya la enseñanza en la Educación General Básica.
 
 <br clear="right"/>
 
@@ -47,47 +47,57 @@ const bryan = {
 <tr>
 <td width="50%" valign="top">
 
+### 🏛️ [Sitio Web Institucional – EMOVTTSR-EP](https://www.emovttsr.gob.ec/)
+Portal oficial de la Empresa Pública de Movilidad de Santa Rosa.
+- Servicios de matriculación y revisión técnica vehicular
+- Calendario de matriculación por último dígito de placa
+- Terminal Terrestre Binacional y cooperativas de buses
+- Noticias, transparencia y contacto en línea
+
+`Sitio web` `Gobierno` `.gob.ec`
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Sitio Web RedTech
+Sitio web desarrollado para **RedTech**, con diseño moderno y adaptable a celulares.
+
+`HTML` `CSS` `JavaScript` `Responsive`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Menú Digital con QR
+Menú digital para negocios de comida: el cliente **escanea un código QR** y ve el menú en su celular, sin cartas impresas.
+
+`Web` `QR` `Mobile First`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🅿️ Sistema de Contingencia de Parqueo
 App de escritorio para emitir y cobrar **tickets de parqueo** en el Terminal Terrestre si falla el sistema principal.
-- Dos módulos: **Ingreso** (impresión) y **Caja** (cobro y revisión)
-- Tickets únicos con **código QR**
-- Impresoras en red por IP y base de datos local compartida
+- Módulos de **Ingreso** (impresión) y **Caja** (cobro y revisión)
+- Tickets únicos con **código QR** e impresoras en red
 - Cálculo automático de tarifas y ticket perdido
 
 `Desktop` `Base de datos local` `QR`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎅 Censo Navideño – Barrio Simón Bolívar
 Web para registrar a los niños del barrio para la **entrega de regalos de Navidad**.
 - Carta animada a Papá Noel al registrarse ✉️
 - Panel de administración: editar, eliminar, **exportar a Excel** e **imprimir tickets**
-- Validación de edades y control de duplicados
 
-`HTML` `CSS` `JavaScript` `Supabase` `Netlify`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐧 [Penguin Brothers](https://github.com/bryan5243/PenguinBrothers)
-Juego **arcade de plataformas 2D** cooperativo (1–2 jugadores) de pantalla fija, inspirado en los clásicos de arcade, con assets originales.
-
-`Godot 4` `GDScript` `Game Dev`
+`JavaScript` `Supabase` `Netlify`
 
 </td>
-<td width="50%" valign="top">
-
-### 🏀 Street Basket 3 vs 3
-Juego **arcade de básquet 3 vs 3** en 2D HD (1920×1080), con equipos, personajes y logos originales y tres arquetipos de jugador: Power, Balance y Speed.
-
-`Godot 4` `GDScript` `Sprites 2D HD`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💬 Chatbot de WhatsApp – SERT-SR *(en desarrollo)*
@@ -96,7 +106,9 @@ Asistente automatizado para informar a la ciudadanía sobre el **Sistema de Esta
 `Chatbot` `WhatsApp API` `Automatización`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🧾 POS + Facturación Electrónica *(en desarrollo)*
 SaaS de **punto de venta e inventario** con firma electrónica propia y conexión directa con el **SRI** de Ecuador.
@@ -121,7 +133,7 @@ SaaS de **punto de venta e inventario** con firma electrónica propia y conexió
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,git,github,docker,linux,postman,figma,vscode,idea,md,discord&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode,idea,md,discord&perline=12" />
   </a>
 </p>
 
@@ -157,13 +169,16 @@ SaaS de **punto de venta e inventario** con firma electrónica propia y conexió
   <a href="https://www.instagram.com/chuchei.22/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.emovttsr.gob.ec/" target="_blank">
+    <img src="https://img.shields.io/badge/EMOVTTSR--EP-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://github.com/bryan5243" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <i>"Código que resuelve problemas reales, desde Santa Rosa para el mundo."</i> 🚀
+  <i>"Tecnología al servicio de la ciudadanía, desde Santa Rosa para el mundo."</i> 🚀
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=120&section=footer" />
