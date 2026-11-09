@@ -1,111 +1,169 @@
-   
-<h1 align="center"><b>Hi , I'm Bryan Joel Rojas A. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<br>
-<ul>
-<li>A passionate Self-taught Front-end developer</li>
-<li>Playing Battle Royale at spare time</li>
-<li>Currently learning Web Development by Self</li>
-<li>I am a software development student.</li>
-</ul>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=200&section=header&text=Bryan%20Rojas%20Aguilar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TIC%27s%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Game%20Dev%20con%20Godot&descAlignY=58&descSize=18" />
 
 <p align="center">
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/bryan5243" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+Soy+Bryan+%F0%9F%91%8B;Tecn%C3%B3logo+%7C+Asistente+de+TIC'S+%F0%9F%96%A5%EF%B8%8F;Construyo+soluciones+web+y+de+escritorio+%E2%9A%99%EF%B8%8F;Creo+videojuegos+2D+con+Godot+%F0%9F%8E%AE;Santa+Rosa%2C+El+Oro+-+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Typing SVG" />
   </a>
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/bryan-joel-rojas-aguilar-3aab011ab/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/chuchei.22/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <img src="https://komarev.com/ghpvc/?username=bryan5243&label=Visitas&color=00c6ff&style=for-the-badge" alt="visitas" />
+  <img src="https://img.shields.io/github/followers/bryan5243?label=Seguidores&style=for-the-badge&color=203a43&logo=github" alt="seguidores" />
+  <img src="https://img.shields.io/badge/📍-Ecuador-yellow?style=for-the-badge" alt="ubicación" />
 </p>
 
+---
 
+## 🧑‍💻 Sobre mí
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+```js
+const bryan = {
+  nombre:     "Bryan Joel Rojas Aguilar",
+  titulo:     "Tecnólogo en Desarrollo de Software",
+  rol:        "Asistente de TIC'S @ EMOVTT SR EP",
+  ubicacion:  "Santa Rosa, El Oro – Ecuador 🇪🇨",
+  estudiando: "Maestría en Educación Básica 🎓",
+  intereses:  ["Desarrollo web", "Apps de escritorio", "Videojuegos 2D", "IA aplicada"],
+  hobbies:    ["Battle Royale 🎯", "Crear juegos 🎮"],
+  lema:       "Si un proceso se repite, se puede automatizar."
+};
+```
 
-----------------------------------------------------------------------
+- 🏢 Soy el **responsable técnico del Área de TIC'S** en la empresa pública de movilidad de Santa Rosa: soporte a todas las áreas y a los **equipos de control de acceso vehicular del Terminal Terrestre** (kioskos, cajeros, barreras y RFID).
+- 🛠️ Me gusta crear **herramientas reales que resuelven problemas reales** de mi ciudad y de mi trabajo.
+- 🤖 En mi trabajo de fin de máster investigo cómo la **IA generativa** apoya las secuencias didácticas en la Educación General Básica.
+- 🎮 En mis ratos libres desarrollo **videojuegos arcade 2D** con Godot.
+
+<br clear="right"/>
+
+---
+
+## 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🅿️ Sistema de Contingencia de Parqueo
+App de escritorio para emitir y cobrar **tickets de parqueo** en el Terminal Terrestre si falla el sistema principal.
+- Dos módulos: **Ingreso** (impresión) y **Caja** (cobro y revisión)
+- Tickets únicos con **código QR**
+- Impresoras en red por IP y base de datos local compartida
+- Cálculo automático de tarifas y ticket perdido
+
+`Desktop` `Base de datos local` `QR`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎅 Censo Navideño – Barrio Simón Bolívar
+Web para registrar a los niños del barrio para la **entrega de regalos de Navidad**.
+- Carta animada a Papá Noel al registrarse ✉️
+- Panel de administración: editar, eliminar, **exportar a Excel** e **imprimir tickets**
+- Validación de edades y control de duplicados
+
+`HTML` `CSS` `JavaScript` `Supabase` `Netlify`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐧 [Penguin Brothers](https://github.com/bryan5243/PenguinBrothers)
+Juego **arcade de plataformas 2D** cooperativo (1–2 jugadores) de pantalla fija, inspirado en los clásicos de arcade, con assets originales.
+
+`Godot 4` `GDScript` `Game Dev`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏀 Street Basket 3 vs 3
+Juego **arcade de básquet 3 vs 3** en 2D HD (1920×1080), con equipos, personajes y logos originales y tres arquetipos de jugador: Power, Balance y Speed.
+
+`Godot 4` `GDScript` `Sprites 2D HD`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Chatbot de WhatsApp – SERT-SR *(en desarrollo)*
+Asistente automatizado para informar a la ciudadanía sobre el **Sistema de Estacionamiento Rotativo Tarifado** de Santa Rosa.
+
+`Chatbot` `WhatsApp API` `Automatización`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 POS + Facturación Electrónica *(en desarrollo)*
+SaaS de **punto de venta e inventario** con firma electrónica propia y conexión directa con el **SRI** de Ecuador.
+
+`SaaS` `Facturación SRI` `Firma electrónica`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,express&perline=12" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,kotlin,c,cpp,mysql,mongodb,dynamodb,firebase,supabase,aws,netlify&perline=12" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,git,github,docker,linux,postman,figma,vscode,idea,md,discord&perline=12" />
+  </a>
+</p>
+
+---
+
+## 📊 Estadísticas en GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bryan5243&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan5243&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bryan5243&theme=tokyonight&hide_border=true&locale=es" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bryan5243&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bryan5243&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🤝 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bryan-joel-rojas-aguilar-3aab011ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/chuchei.22/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/bryan5243" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Código que resuelve problemas reales, desde Santa Rosa para el mundo."</i> 🚀
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=120&section=footer" />
