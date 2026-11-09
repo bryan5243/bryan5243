@@ -19,18 +19,15 @@
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-
-const bryan = {
-  nombre:    "Bryan Joel Rojas Aguilar",
-  titulo:    "Tecnólogo en Desarrollo de Software",
-  cargo:     "Asistente de TIC'S",
-  empresa:   "EMOVTTSR-EP",
-  ciudad:    "Santa Rosa, El Oro - Ecuador",
-  estudios:  "Maestría en Educación Básica",
-  intereses: ["Desarrollo web", "Sistemas", "IA aplicada"],
-  lema:      "Si se repite, se automatiza."
-};
-
+| | |
+|:--|:--|
+| 👤 **Nombre** | Bryan Joel Rojas Aguilar |
+| 🎓 **Título** | Tecnólogo en Desarrollo de Software |
+| 💼 **Cargo** | Asistente de TIC'S – EMOVTTSR-EP |
+| 📍 **Ciudad** | Santa Rosa, El Oro – Ecuador |
+| 📚 **Estudiando** | Maestría en Educación Básica |
+| 💡 **Intereses** | Desarrollo web · Sistemas · IA aplicada |
+| ⚡ **Lema** | *"Si se repite, se automatiza."* |
 
 - 🏛️ **Servidor público** en la **EMOVTTSR-EP**, Empresa Pública de Movilidad de Santa Rosa.
 - 🌐 Desarrollé el **sitio web institucional** de la empresa: [emovttsr.gob.ec](https://www.emovttsr.gob.ec/)
@@ -142,8 +139,13 @@ SaaS de **punto de venta e inventario** con firma electrónica propia y conexió
 ## 📊 Estadísticas en GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bryan5243&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan5243&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" />
+  <img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img width="32%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 <p align="center">
@@ -151,11 +153,10 @@ SaaS de **punto de venta e inventario** con firma electrónica propia y conexió
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bryan5243&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bryan5243&theme=tokyo-night&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bryan5243/bryan5243/output/github-snake-dark.svg" />
+    <img width="95%" alt="snake" src="https://raw.githubusercontent.com/bryan5243/bryan5243/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
